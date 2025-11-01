@@ -3,9 +3,10 @@
 
 Strafbepaling
 De straffen zijn verdeeld in de volgende categoriëen.
+
 **Categorie 1: een waarschuwing**
 
-**Categorie 2: Categorie 2 – Een waarschuwing + 25 taken.**
+**Categorie 2 – Een waarschuwing + 25 taken.**
 
 **Categorie 3: een ban van 8 uur**
 
