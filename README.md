@@ -1,20 +1,28 @@
-# In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.
+# In het Algemene Plaatselijke Verordering van Wavy Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Wavy opgenomen. Bij het intrekken binnen Wavy gaat u automatisch akkoord met deze wet- en regelgeving.
 
 
 Strafbepaling
 De straffen zijn verdeeld in de volgende categoriëen.
 **Categorie 1: een waarschuwing**
+
 **Categorie 2: Categorie 2 – Een waarschuwing + 25 taken.**
+
 **Categorie 3: een ban van 8 uur**
+
 **Categorie 4: een ban 3 dagen**
+
 **Categorie 5: een ban 1 week**
+
 **Categorie 6: een ban 1 maand**
+
 **Categorie 7: permanente ban**
+
 **Categorie 8: account wipe**
+
 Straffen kunnen preventief opgelegd worden om nader onderzoek te doen.
 Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
 Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen.
-Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Springbank.
+Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Wavy.
 Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt.
 De categorieeën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.
 
@@ -45,7 +53,7 @@ Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
 Straf ⇨ Categorie 2
 
 ## Artikel 2 - Cheats
-Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen.
+Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel. Wavy Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen.
 
 Straf ⇨ Categorie 7
 
@@ -64,7 +72,7 @@ Benoemen dat iemand een artikel van het APV heeft overtreden.
 Straf ⇨ Categorie 2
 
 ## Artikel 5 - Meta-gaming
-Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Springbank bent.
+Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Wavy bent.
 
 Bijvoorbeeld: een bericht op Discord sturen waar je bent. Ook is het niet toegestaan een eigen server te hebben voor je bedrijf of gang met andere burgers erin, tenzij je toestemming hebt van management.
 
@@ -138,12 +146,12 @@ Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon t
 Straf ⇨ Categorie 1
 
 ## Artikel 13 - Talen
-Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Springbank Roleplay. 1. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario. 2. Tijdens staffzaken is het in de basis zaak dat er ten allen tijden Nederlands wordt gesproken.
+Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Wavy Roleplay. 1. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario. 2. Tijdens staffzaken is het in de basis zaak dat er ten allen tijden Nederlands wordt gesproken.
 
 Straf ⇨ Categorie 1
 
 ## Artikel 14 - Belediging
-Het is niet toegestaan om in game of in de Springbank Discords aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse ziektes, seksuele opmerkingen, racisme, toxic gedrag of andere ongepaste opmerkingen. Dit is ook van toepassing op de volgende punten:
+Het is niet toegestaan om in game of in de Wavy Discords aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse ziektes, seksuele opmerkingen, racisme, toxic gedrag of andere ongepaste opmerkingen. Dit is ook van toepassing op de volgende punten:
 
 Naam van jouw steam account
 Naam van jouw discord account
@@ -259,7 +267,7 @@ Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
 Het is niet toegestaan om hostages te pakken op de volgende plekken:
 In de kledingwinkel in het kledingmenu;
 Locaties waar werkzaamheden gestart en beëindigd worden;
-Officiële bedrijven binnen Springbank.
+Officiële bedrijven binnen Wavy.
 Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
 Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is.
 Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
@@ -356,7 +364,7 @@ Straf ⇨ Categorie 6 + eventuele accountwipe
 Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groepering naar overheid of andersom wilt wisselen, dan dien je 7 dagen te wachten vanaf het moment van ontslag tot aan je eerste startdag. Hier kan door management uitzondering op gemaakt worden.
 
 ## Artikel 35 - Real life trading
-Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om.
+Het is nooit toegestaan om goederen in Wavy (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om.
 Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen.
 Hieronder wordt ook het aanbieden of vragen naar verstaan.
